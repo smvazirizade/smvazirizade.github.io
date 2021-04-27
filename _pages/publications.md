@@ -7,7 +7,7 @@ author_profile: true
 
 
 You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=rbegTHsAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-
+You can also find my articles on [my Google Scholar profil](https://scholar.google.com/citations?user=rbegTHsAAAAJ&hl=en)
 
 
 **Journal Articles**
