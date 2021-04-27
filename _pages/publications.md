@@ -17,11 +17,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [3] S. M. Vazirizade, H. Azizsoltani, and A. Haldar, &quot;Reliability Estimation of Jacket Type Offshore Platforms against Seismic and Wave Loadings applied in time domain,&quot; _Ships Offshore Struct._, vol. 0, no. 0, pp. 1–10, 2020, doi: 10.1080/17445302.2020.1827632. [Available](https://www.tandfonline.com/doi/abs/10.1080/15732470701270132?src=recsys&journalCode=nsie20)
 
-[4] S. M. Vazirizade, A. Haldar, and J. R. Gaxiola-Camacho, &quot;Uncertainty quantification of sea waves - an improved approach,&quot; _Oceanogr. Fish._, vol. 9, no. 5, 2019. [Available](https://juniperpublishers.com/ofoaj/pdf/OFOAJ.MS.ID.555775.pdf?fbclid=IwAR30Q1z7SEj2xC7NWyyprC5IzPetntMXHgbOhiLmyeEz6dZyxK29aNYChPk)
+[4] S. M. Vazirizade, A. Haldar, and J. R. Gaxiola-Camacho, &quot;Uncertainty quantification of sea waves - an improved approach,&quot; _Oceanogr. Fish._, vol. 9, no. 5, 2019. [Available](https://juniperpublishers.com/ofoaj/OFOAJ.MS.ID.555775.php#atype)
 
 [5] A. Haldar, J. R. Gaxiola-Camacho, H. Azizsoltani, F. J. Villegas Mercado, and S. M. Vazirizade, &quot;Novel Geomechanics Concepts for Earthquake Excitations Applied in Time Domain,&quot; _Int. J. Geomech._, vol. 20, no. 9, p. 4020158, Sep. 2020, doi: 10.1061/(ASCE)GM.1943-5622.0001799. [Available](https://ascelibrary.org/doi/10.1061/%28ASCE%29GM.1943-5622.0001799)
 
-[6] S. M. Vazirizade, A. Bakhshi, O. Bahar, and S. Nozhati, &quot;Online Nonlinear Structural Damage Detection Using Hilbert Huang Transform and Artificial Neural Networks,&quot; _Sci. Iran._, vol. 26, no. 3, pp. 1266–1279, Mar. 2019, doi: 10.24200/sci.2019.50657.1808. [Available](http://scientiairanica.sharif.edu/article_21309.htm)
+[6] S. M. Vazirizade, A. Bakhshi, O. Bahar, and S. Nozhati, &quot;Online Nonlinear Structural Damage Detection Using Hilbert Huang Transform and Artificial Neural Networks,&quot; _Sci. Iran._, vol. 26, no. 3, pp. 1266–1279, Mar. 2019, doi: 10.24200/sci.2019.50657.1808. [Available](http://scientiairanica.sharif.edu/article_21309.html)
 
 [7] S. H. Seyyed Alangi, S. Nozhati, and S. M. Vazirizade, &quot;Critical reliability slip surface in soil slope stability analysis using Monte Carlo simulation method,&quot; _Int. J. Struct. Integr._, vol. 9, no. 2, 2018, doi: 10.1108/IJSI-06-2017-0035. [Available](https://www.emerald.com/insight/content/doi/10.1108/IJSI-06-2017-0035/full/html)
 
@@ -31,9 +31,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [9] J. R. Gaxiola-Camacho, H. Azizsoltani, A. Haldar, S. M. Vazirizade, and F. J. Villegas Mercado, &quot;Novel Concepts for Reliability Analysis of Dynamic Structural Systems,&quot; in _Handbook of Probabilistic Models for Engineers and Scientist_, R. C. D. Pijush Samui, Dieu Tien Bui, Subrata Chakraborty, Ed. Elsevier, 2020, pp. 305–346. [Available](https://www.sciencedirect.com/science/article/pii/B9780128165140000138)
 
-[10] Edited: S. Rogers and M. Girolami, _A first course in machine learning_. Chapman and Hall/CRC, 2016. [Available](https://www.sciencedirect.com/science/article/pii/B9780128165140000138)
+[10] Edited: S. Rogers and M. Girolami, _A first course in machine learning_. Chapman and Hall/CRC, 2016. [Available](https://www.routledge.com/A-First-Course-in-Machine-Learning/Rogers-Girolami/p/book/9780367574642)
 
-[11] Edited: H. Vafai and K. E. Lansey, _Science and Technology Diplomacy: A Focus on the Americas with Lessons for the World_. New York, NY, USA: Momentum Press, 2018. [Available](https://link.springer.com/article/10.1007/s12205-021-1411-0)
+[11] Edited: H. Vafai and K. E. Lansey, _Science and Technology Diplomacy: A Focus on the Americas with Lessons for the World_. New York, NY, USA: Momentum Press, 2018. [Available](https://books.google.com/books?id=ZMA1tAEACAAJ)
 
 **Conference Papers**
 
