@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Reliability of Structures and Neural Networks"
+excerpt: "Artificial Neural Networks (ANNs), as a powerful tool, can be used to save lives by preventing the failure of our infrastructures. <br/><img src='/images/SHM/presentation.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Sudden damage is the main and most dangerous reason forstructural failure. Therefore, structural health monitoring and reliability assessmentof structures have been the center of attention during the past decades. I havepublished multiple research papers focusing on using neural networks to improve structural reliability. Compared to other methods, it is fast, accurate,and economical. By starting the era of bigdata, more and more data isconsistently being collected, which can improve the performance of such data-driven models.  
+This was the focus of my master's thesis and we published multiple research papers on this topic. Please refer to the [publication tab](/publications) for more detail. 
