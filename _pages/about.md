@@ -11,6 +11,8 @@ redirect_from:
 Post Doctoral Research Fellow/Data Scientist
 
 <br/><br/>
+
+  
 About me
 ======
 I'm a postdoctoral researcher at Vanderbilt University, Department of Electrical Engineering and Computer Science. As a member of [SCOPE Lab](https://scopelab.ai/) (Smart and resilient Computing for Physical Environment) under the supervision [Dr. Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey),
@@ -26,6 +28,9 @@ For fun, I follow Formula 1. It is, indeed, one of the most heavily-invested-in-
   
   
 <br/><br/>  
+  
+  
+
 <p align="center">
 <img src='/images/datascience.png' width='400'>
 </p>
