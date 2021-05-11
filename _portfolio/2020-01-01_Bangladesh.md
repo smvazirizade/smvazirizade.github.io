@@ -10,4 +10,5 @@ tags:
   - Transportation Networks
 ---
 
-Please refer to the [publication tab](/publications) for more detail.
+Please refer to the [publication tab](/publications) for more detail. 
+The study was supported by the National Science Foundation (NSF) under [Grant No. 1600319](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1600319). 

@@ -13,4 +13,5 @@ tags:
 
 Under construction. 
 
-Please refer to the [publication tab](/publications) for more detail.
+Please refer to the [publication tab](/publications) for more detail. 
+The study was supported by the National Science Foundation (NSF) under [Grant No. CMMI-1403844](https://nsf.gov/awardsearch/showAward?AWD_ID=1403844)..
