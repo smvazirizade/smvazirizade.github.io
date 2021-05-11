@@ -1,5 +1,5 @@
 ---
-title: "Inland Water Transportation"
+title: "Inland Water Transportation Network"
 date: 2020-01-01
 excerpt: "Rivers are the vital artilaries in Banglesh. <br/><img src='/images/Bangladesh/presentation.gif' width='500'>"
 collection: portfolio
