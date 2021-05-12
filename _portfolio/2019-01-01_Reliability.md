@@ -1,7 +1,7 @@
 ---
 title: "An Intelligent Integrated Method for Reliability Estimation"
 date: 2019-01-01
-excerpt: "Reliability Estimation. <br/><img src='/images/Reliability/presentation.gif' width='300'>"
+excerpt: "Reliability Estimation. <br/><img src='/images/Reliability/presentation.gif' width='400'>"
 collection: portfolio
 tags:
   - Reliability
