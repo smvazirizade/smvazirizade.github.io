@@ -1,14 +1,15 @@
 ---
 permalink: /
 title: "Sayyed Mohsen Vazirizade"
-subtitle: "Post Doctoral Research Fellow/Data Scientist"
+subtitle: "Post Doctoral Researcher/Data Scientist"
 excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Post Doctoral Research Fellow/Data Scientist
+
+Post Doctoral Researcher/Data Scientist
 <br/><br/>
 
 About me
